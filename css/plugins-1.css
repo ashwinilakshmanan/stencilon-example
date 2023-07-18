@@ -1,0 +1,33 @@
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min-1.css");
+
+/* == owl.carousel == */
+@import url("plugins/owl.carousel.min-1.css");
+@import url("plugins/owl.theme.default.min-1.css");
+
+/* == animate css == */
+@import url("plugins/animate.min-1.css");
+
+/* == themify icons ==*/
+@import url("plugins/themify-icons-1.css");
+
+/* == et-lineicons icons ==*/
+@import url("plugins/et-lineicons-1.css");
+
+/* == magnific-popup gallery  == */
+@import url("plugins/magnific-popup-1.css");
+
+/* == YouTubePopUp == */
+@import url("plugins/YouTubePopUp-1.css");
+
+
+/* == for booking css == */
+@import url("plugins/select2-1.css");
+@import url("plugins/datepicker-1.css");
+
+/* == Vegas Slider == */
+@import url("plugins/vegas.slider.min-1.css");
